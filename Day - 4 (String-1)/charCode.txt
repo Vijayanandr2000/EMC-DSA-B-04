@@ -1,0 +1,8 @@
+| Language       | Get Char Code (character → number)         | From Char Code (number → character) | Example (`'A'` ↔ `65`) |
+| -------------- | ------------------------------------------ | ----------------------------------- | ---------------------- |
+| **JavaScript** | `name.charCodeAt(0)`                       | `String.fromCharCode(65)`           | `65` ↔ `"A"`           |
+| **C**          | Just use the char as `int`: `(int)name[0]` | Cast int to char: `(char)65`        | `65` ↔ `'A'`           |
+| **C++**        | `(int)name[0]`                             | `(char)65`                          | `65` ↔ `'A'`           |
+| **Java**       | `(int)name.charAt(0)`                      | `(char)65`                          | `65` ↔ `'A'`           |
+| **Python**     | `ord(name[0])`                             | `chr(65)`                           | `65` ↔ `'A'`           |
+

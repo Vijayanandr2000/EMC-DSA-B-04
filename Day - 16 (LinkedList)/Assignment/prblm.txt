@@ -1,0 +1,34 @@
+🔥 Extra Important Linked List Interview Problems
+
+1️⃣ Middle of the Linked List – LeetCode 876
+[https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
+💡 Concept: Use two pointers (slow/fast) to find the middle node.
+
+2️⃣ Remove N-th Node from End of List – LeetCode 19
+[https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+💡 Concept: Two pointer approach with a gap of `n` nodes to remove target node.
+
+3️⃣ Palindrome Linked List – LeetCode 234
+[https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
+💡 Concept: Reverse second half of list, then compare with first half.
+
+4️⃣ Linked List Cycle II – LeetCode 142
+[https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)
+💡 Concept: Use Floyd's Tortoise and Hare algorithm to find cycle start.
+
+5️⃣ Reorder List – LeetCode 143
+[https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
+💡 Concept: Find middle → reverse second half → merge both halves.
+
+6️⃣ Add Two Numbers – LeetCode 2
+[https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)
+💡 Concept: Simulate digit-by-digit addition using carry handling.
+
+7️⃣ Intersection of Two Linked Lists – LeetCode 160
+[https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+💡 Concept: Equalize the path lengths and move both pointers to find intersection.
+
+8️⃣ Reverse Nodes in k-Group – LeetCode 25
+[https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+💡 Concept: Reverse every `k` nodes using recursion or loop.
+

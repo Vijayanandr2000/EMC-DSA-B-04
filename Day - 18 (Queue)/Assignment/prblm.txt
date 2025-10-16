@@ -1,0 +1,27 @@
+1. Implement Queue using Stacks  
+https://leetcode.com/problems/implement-queue-using-stacks/  
+Concept: Use two stacks to simulate FIFO queue behavior.
+
+2. Design Circular Queue  
+https://leetcode.com/problems/design-circular-queue/  
+Concept: Fixed-size array with front and rear pointers (circular movement).
+
+3. Design Circular Deque  
+https://leetcode.com/problems/design-circular-deque/  
+Concept: Double-ended queue operations with circular index management.
+
+4. Number of Recent Calls  
+https://leetcode.com/problems/number-of-recent-calls/  
+Concept: Maintain a queue of timestamps; pop old calls outside the window.
+
+5. Sliding Window Maximum  
+https://leetcode.com/problems/sliding-window-maximum/  
+Concept: Monotonic Deque — push useful elements, pop smaller elements.
+
+6. First Unique Number  
+https://leetcode.com/problems/first-unique-number/  
+Concept: Queue + HashMap to track order and frequency of elements.
+
+7. Recent Counter (Variation of #4)  
+https://leetcode.com/problems/number-of-recent-calls/  
+Concept: Maintain queue of ping times within time window.

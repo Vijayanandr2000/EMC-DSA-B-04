@@ -1,0 +1,45 @@
+1️⃣ Find if Path Exists in Graph
+   🔗 https://leetcode.com/problems/find-if-path-exists-in-graph/
+   🧠 Concept: DFS/BFS Traversal
+
+2️⃣ Number of Connected Components in an Undirected Graph
+   🔗 https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+   🧠 Concept: DFS/BFS, Union-Find
+24 - mm
+
+3️⃣ Detect Cycle in an Undirected Graph
+   🔗 https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+   🧠 Concept: DFS with visited & parent, or Union-Find
+
+4️⃣ Detect Cycle in a Directed Graph
+   🔗 https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+   🧠 Concept: DFS with recursion stack OR Kahn’s Algorithm (BFS)
+
+5️⃣ Topological Sort
+   🔗 https://www.geeksforgeeks.org/problems/topological-sort/1
+   🧠 Concept: DFS + Stack or BFS (Kahn’s Algorithm)
+
+6️⃣ Course Schedule
+   🔗 https://leetcode.com/problems/course-schedule/
+   🧠 Concept: Cycle Detection in Directed Graph using BFS/DFS
+
+7️⃣ Course Schedule II
+   🔗 https://leetcode.com/problems/course-schedule-ii/
+   🧠 Concept: Topological Sort (Kahn's Algo or DFS)
+
+8️⃣ Shortest Path in Binary Matrix
+   🔗 https://leetcode.com/problems/shortest-path-in-binary-matrix/
+   🧠 Concept: BFS with directions
+
+9️⃣ Word Ladder
+   🔗 https://leetcode.com/problems/word-ladder/
+   🧠 Concept: BFS + String mutation
+
+🔟 Network Delay Time
+   🔗 https://leetcode.com/problems/network-delay-time/
+   🧠 Concept: Dijkstra’s Algorithm (priority queue)
+
+🔁 Optional but Important:
+- Clone Graph: https://leetcode.com/problems/clone-graph/ 🧠 DFS/BFS & HashMap
+- Is Graph Bipartite: https://leetcode.com/problems/is-graph-bipartite/ 🧠 BFS/DFS Coloring
+
